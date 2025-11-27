@@ -1,0 +1,8 @@
+{"id": "T1_Q1", "task": "grammar_check", "question": "Quale frase è corretta? a. Il papà è entusiato. b. Il papà è entusiasta.", "answer_minerva": "b. Il papà è entusiasta."}
+{"id": "T1_Q3", "task": "grammar_check", "question": "Quale frase è corretta? a. Il cane e il bambino correvano insieme. b. Il cane e il bambino correva insieme.", "answer_minerva": "a. Il cane e il bambino correvano insieme."}
+{"id": "T1_Q6", "task": "grammar_check", "question": "Quale frase è corretta? a. Ho incontrato Anna e gli ho dato un passaggio. b. Ho incontrato Anna e le ho dato un passaggio.", "answer_minerva": "b. Ho incontrato Anna e le ho dato un passaggio a casa."}
+{"id": "T1_Q12", "task": "grammar_check", "question": "Quale frase è corretta? a. Spento la sveglia... b. Spenta la sveglia...", "answer_minerva": "b. Spenta la sveglia, mi sono alzata dal letto."}
+{"id": "T2_Q2", "task": "subject_analysis", "question": "Individua il soggetto nella frase seguente: Il gatto ha mangiato il topo.", "answer_minerva": "Il gatto è il soggetto della frase."}
+{"id": "T2_Q6", "task": "subject_analysis", "question": "Individua il soggetto nella frase seguente: A dirmelo è stato Luca.", "answer_minerva": "Luca."}
+{"id": "T2_Q12", "task": "role_analysis", "question": "Indica quale funzione ha il 'che' nella frase: Ieri ho incontrato Luca che mi ha raccontato del suo viaggio.", "answer_minerva": "Il 'che' è un pronome relativo che introduce una proposizione subordinata."}
+{"id": "T2_Q15", "task": "role_analysis", "question": "Indica quale funzione ha il 'che' nella frase: Che hai combinato!", "answer_minerva": "Il che è una congiunzione subordinante."}
