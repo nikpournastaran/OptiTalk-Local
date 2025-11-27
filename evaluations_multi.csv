@@ -1,0 +1,4 @@
+id,question,answer,llama3.2_score,llama3.2_comment
+1,Qual è la capitale d'Italia?,"La capitale d'Italia è Roma, una città storica e importante.",5,"La risposta è completa e corretta, poiché la Roma è effettivamente la capitale dell'Italia. La domanda richiede un'informazione di base e la risposta fornita la fornisce in modo chiaro e conciso."
+2,Come si cucina la carbonara?,"Per fare la carbonara servono uova, guanciale, pecorino e pepe nero. Non usare la panna!",1,JSON Parse Error
+3,Chi ha scritto la Divina Commedia?,La Divina Commedia è stata scritta da Dante Alighieri nel quattordicesimo secolo.,5,"La risposta è completa e copre l'intera domanda, fornendo anche il nome dell'autore. Pertiene quindi al 100% alla domanda"

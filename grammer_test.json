@@ -1,0 +1,5 @@
+{"id": "1", "task": "role_analysis", "question": "Nella frase 'Che bel tempo', qual è il ruolo grammaticale di 'Che'?", "answer_minerva": "In questa frase, 'Che' è un aggettivo esclamativo."}
+{"id": "2", "task": "role_analysis", "question": "Nella frase 'Il libro che ho letto', cos'è 'che'?", "answer_minerva": "Qui 'che' è un pronome relativo."}
+{"id": "3", "task": "role_analysis", "question": "Nella frase 'Spero che tu stia bene', cos'è 'che'?", "answer_minerva": "Qui 'che' è una congiunzione."}
+{"id": "4", "task": "grammar_check", "question": "Quale frase è corretta: A) 'Io sono andare a casa' o B) 'Io sono andato a casa'?", "answer_minerva": "La frase corretta è la B ('Io sono andato a casa'). La frase A usa l'infinito in modo errato."}
+{"id": "5", "task": "grammar_check", "question": "Analizza questa frase: 'Loro mangia la mela'. È corretta?", "answer_minerva": "No, non è corretta. Il verbo 'mangia' non concorda con il soggetto 'Loro'. La forma corretta è 'Loro mangiano la mela'."}
