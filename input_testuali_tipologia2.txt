@@ -1,0 +1,110 @@
+
+---------------------------------------------------------Domanda 1----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Mi piace il gelato al cioccolato.
+
+"Il soggetto è ""Mi piace"".
+
+---------------------------------------------------------Domanda 2----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Il gatto ha mangiato il topo.
+
+"Il gatto è il soggetto della frase."
+
+---------------------------------------------------------Domanda 3----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Ieri ha piovuto tutta la giornata.
+
+"Il soggetto è ""Ieri"".
+
+---------------------------------------------------------Domanda 4----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Anna si è fatta male cadendo dall'altalena.
+
+"Il soggetto è ""Anna"".
+
+---------------------------------------------------------Domanda 5----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Chi ti ha detto di aprire la porta?
+
+"Il soggetto è ""tu"" perché si riferisce alla persona che viene interrogata sulla questione.""
+
+---------------------------------------------------------Domanda 6----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: A dirmelo è stato Luca.
+
+"Luca."
+
+---------------------------------------------------------Domanda 7----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Oggi si mangia a casa
+
+"Il soggetto è ""Oggi"" perché è la persona o l'oggetto che compie l'azione della frase.""
+
+---------------------------------------------------------Domanda 8----------------------------------------------------------------------------------------------
+Individua il soggetto della frase Solitamente mi lavo i capelli tre volte a settimana
+
+"Il soggetto è ""mi"" (io).
+
+---------------------------------------------------------Domanda 9----------------------------------------------------------------------------------------------
+Individua il soggetto della frase: Chissà cosa è successo dopo
+
+Il soggetto è ""cosa"".
+
+---------------------------------------------------------Domanda 10----------------------------------------------------------------------------------------------
+Individua il soggetto nella frase seguente: Ieri mi è capitata una cosa strana
+
+"Il soggetto della frase è ""io"" perché la frase indica che l'azione viene compiuta da un individuo specifico, ovvero colui che parla o scrive.""
+
+---------------------------------------------------------Domanda 11----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Che mi racconti di nuovo?"
+
+"Il che è una congiunzione subordinante, quindi la risposta corretta è che funziona come subordinata alla frase principale ""mi racconti""."
+
+---------------------------------------------------------Domanda 12----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Ieri ho incontrato Luca che mi ha raccontato del suo viaggio a Parigi."
+
+"Il ""che"" nella frase è un pronome relativo che introduce una proposizione subordinata relativa al soggetto ""Luca"".
+
+---------------------------------------------------------Domanda 13----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Stasera non posso fare troppo tardi che domani mi devo svegliare presto."
+
+"Il ""che"" introduce una proposizione relativa (che specifica un termine della frase precedente) e quindi ha funzione di congiunzione subordinante.
+
+---------------------------------------------------------Domanda 14----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Se non fossi riuscita a prendere l'ultimo treno non avrei saputo che fare."
+
+"Il ""che"" introduce una proposizione relativa, quindi è la risposta corretta."
+
+---------------------------------------------------------Domanda 15----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Che hai combinato!"
+
+"Il che è una congiunzione subordinante che introduce una proposizione subordinata relativa, indicando un'azione o una situazione che si verifica dopo l'avverbio di tempo ""hai"".
+
+---------------------------------------------------------Domanda 16----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Mi dispiace che te vada così presto."
+
+"Il ""che"" in questa frase è una congiunzione subordinante che introduce la proposizione relativa ""Mi dispiace che"". Quindi, il ""che"" funziona come subordinata alla proposizione principale ""Mi dispiace che te vada così presto"".
+
+---------------------------------------------------------Domanda 17----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Hai visto che bel giardino!"
+
+"Il ""che"" è un pronome relativo"
+
+---------------------------------------------------------Domanda 18----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Che hai fatto sabato sera?"
+
+"Il ""che"" è una congiunzione subordinante che introduce la proposizione dipendente ""hai fatto sabato sera"". Quindi, la risposta è: ""Che hai fatto sabato sera?""
+
+---------------------------------------------------------Domanda 19----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: I film d'azione sono quelli che preferisco."
+
+"Il ""che"" introduce una proposizione relativa, quindi la risposta è ""I film d'azione sono quelli che preferisco"".
+
+---------------------------------------------------------Domanda 20----------------------------------------------------------------------------------------------
+1"Indica quale funziona ha il ""che"" nella frase seguente: Ieri ho conosciuto Anna. Che persona interessante!"
+
+"Il ""che"" in questa frase è un pronome relativo che introduce una subordinata relativa, ovvero la frase ""persona interessante"". Quindi il ""che"" funziona come congiunzione subordinante."
+
+---------------------------------------------------------Domanda 21----------------------------------------------------------------------------------------------
+1"Indica quale funziona ha il ""che"" nella frase seguente: Che film hai visto quanto sei andato al cinema?"
+
+"Il ""che"" è una congiunzione che introduce una proposizione subordinata, quindi la risposta è ""hai visto""."
+
+---------------------------------------------------------Domanda 22----------------------------------------------------------------------------------------------
+"Indica quale funziona ha il ""che"" nella frase seguente: Avevo così tanto sonno che mi sono addormentato sul divano."
+
+"Il ""che"" è una congiunzione coordinante."
