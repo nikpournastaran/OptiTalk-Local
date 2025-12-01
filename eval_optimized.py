@@ -4,8 +4,8 @@ import ollama
 import os
 
 # --- Configuration ---
-INPUT_JSONL = "grammar_test.jsonl"    # فایل ورودی (تست گرامر)
-OUT_CSV = "evaluations_grammar.csv"   # فایل خروجی
+INPUT_JSONL = "professor_dataset.jsonl"       # <--- فایل جدید که الان ساختی
+OUT_CSV = "evaluations_professor.csv"         # <--- اسم خروجی نهایی
 
 # مدل اصلی (Main Model)
 JUDGE_MODELS = [
