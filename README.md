@@ -1,6 +1,6 @@
 # ⚡ OptiTalk-Local
 > **A High-Performance, CPU-Optimized Voice Assistant (600% Faster)**
-
+شسششیشسی
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Ollama](https://img.shields.io/badge/Backend-Ollama-orange) ![Hardware](https://img.shields.io/badge/Hardware-Intel_UHD%2FCPU-green)
 
 ## 📄 Abstract (The Challenge)
